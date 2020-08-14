@@ -1,0 +1,19 @@
+{
+  "name": "cronjob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiosantiagopaixao/cronjob.git"
+  },
+  "author": "Fábio Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiosantiagopaixao/cronjob/issues"
+  },
+  "homepage": "https://github.com/fabiosantiagopaixao/cronjob#readme"
+}
